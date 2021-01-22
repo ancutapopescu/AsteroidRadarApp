@@ -1,0 +1,17 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <!--Customized theme for the app-->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/primaryColor</item>
+        <item name="colorPrimaryDark">@color/primaryDarkColor</item>
+        <item name="colorSecondary">@color/secondaryColor</item>
+
+        <!--Custom fonts for the app-->
+        <item name="android:fontFamily">@font/titillium_web</item>
+        <item name="fontFamily">@font/titillium_web</item>
+
+    </style>
+
+</resources>
+
